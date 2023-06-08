@@ -1,0 +1,3 @@
+rootProject.name = 'TemporalSagaExample'
+include('web', 'order')
+
